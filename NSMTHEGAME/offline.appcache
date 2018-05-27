@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1527268256
+#1527431097
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
@@ -24,15 +24,6 @@ images/fpssf.png
 images/fundoparafalasprite-sheet0.png
 images/menubrancobackground.png
 images/homeb-sheet0.png
-images/transicao-sheet0.png
-images/transicao-sheet1.png
-images/transicao-sheet2.png
-images/transicao-sheet3.png
-images/transicao-sheet4.png
-images/transicao-sheet5.png
-images/transicao-sheet6.png
-images/transicao-sheet7.png
-images/transicao-sheet8.png
 images/pontoanimacao-sheet0.png
 images/logo-sheet0.png
 images/finalfeliz-sheet0.png
@@ -51,6 +42,12 @@ images/ssom-sheet0.png
 images/avisospritefont.png
 images/lm_sf2.png
 images/developers_sf.png
+images/htp1-sheet0.png
+images/htp2-sheet0.png
+images/htp3-sheet0.png
+images/htp4-sheet0.png
+images/htp5-sheet0.png
+images/htp6-sheet0.png
 media/63531__florian-reinke__click1.m4a
 media/63531__florian-reinke__click1.ogg
 media/notificacaomsg.m4a
