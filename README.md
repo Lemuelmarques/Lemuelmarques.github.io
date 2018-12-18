@@ -13,5 +13,5 @@ Aluno e Pessoa.
 - NSM THE GAME
 - WORLD BLOCKS
 
-#Biografia:
+#BIOGRAFIA:
  _NÃO TENHO UMA._
