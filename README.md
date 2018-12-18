@@ -6,6 +6,6 @@ Aluno e Pessoa.
 
 #Contatos:
 
-##Jogos:
+#Jogos:
 
-###Biografia:
+#Biografia:
