@@ -4,13 +4,14 @@ Lemuel Marques; 17
 
 Aluno e Pessoa.
 
-#Contatos:
+#CONTATOS:
 1. Twitter
 2. Gmail (marqueslemuel@gmail.com)
 3. Instagram
 
-#GAMES:
+#**GAMES:**
 - NSM THE GAME
 - WORLD BLOCKS
 
 #Biografia:
+ _NÃO TENHO UMA._
