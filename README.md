@@ -1,17 +1,17 @@
 ## MEU PORTIFÓLIO
 
-Lemuel Marques; 17
+#**Lemuel Marques; 17**
 
 Aluno e Pessoa.
 
-#CONTATOS:
+##CONTATOS:
 1. Twitter
 2. Gmail (marqueslemuel@gmail.com)
 3. Instagram
 
-#**GAMES:**
+##GAMES:
 - NSM THE GAME
 - WORLD BLOCKS
 
-#BIOGRAFIA:
+##BIOGRAFIA:
  _NÃO TENHO UMA._
