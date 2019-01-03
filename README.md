@@ -15,6 +15,6 @@ Aluno de Jogos Digitais; Terceiro ano da tarde.
 
 ##CONTATOS:
 1. [Twitter](https://twitter.com/MarquesLemuel)
-2. [Gmail](marqueslemuel@gmail.com)
-3. [Instagram](https://www.instagram.com/_lemuell/?hl=pt-br)
+2. [Instagram](https://www.instagram.com/_lemuell/?hl=pt-br)
+3. Gmail: marqueslemuel@gmail.com
 
